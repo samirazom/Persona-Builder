@@ -2,15 +2,20 @@
 
 An application to help you build the perfect persona.
 
-## Getting Started
+## Running the application (for web)
 
-This project is a starting point for a Flutter application.
+### 1. Prepare environment
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have all the prerequisites installed and configured.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Follow these steps if you haven't done so already.](https://docs.flutter.dev/get-started/web)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Clone repository
+
+Clone this repository to your local machine.
+
+### 2. Run application
+
+Run the application by executing the following command:
+
+`flutter run -d chrome`
